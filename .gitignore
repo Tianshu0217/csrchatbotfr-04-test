@@ -1,0 +1,2 @@
+node_modules/
+build/ # 如果你不想把打包产物也推上去

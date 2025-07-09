@@ -1,0 +1,2 @@
+node_modules/
+build/ # 如果你不想把 build 目录推上去，可以忽略它
